@@ -8,8 +8,8 @@ O objetivo deste projeto é criar um tutorial de Análise de Sentimento utilizan
 
   * Diponível em: <https://www.python.org/downloads/>
   * Foi utilizado a versão 3.9.1
-  * Em sistemas Windowns é necessário adicionar o Python ao PATH do sistema, para isso basta selecionar a opção para adicionar durante a instalação do Python, caso contrário ele tera que ser adicionado manualmente
-  * O pip também é necessário para instalação de bibliotecas que já vem por padrão com o Python
+  * Em sistemas Windowns é necessário adicionar o Python ao PATH do sistema, para isso basta selecionar a opção durante a instalação do Python, caso contrário ele tera que ser adicionado manualmente
+  * O pip também é necessário para instalação de bibliotecas
   
 ### Jupyter Notebook
 
